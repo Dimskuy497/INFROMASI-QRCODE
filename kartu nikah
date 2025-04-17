@@ -39,7 +39,7 @@
 
   <div class="mb-3">
     <label for="namaSuami">Nama Suami</label>
-    <input type="text" id="namaSuami" class="form-control" value="AHMAD FAKHRUDIN">
+    <input type="text" id="namaSuami" class="form-control" value="DIMAS YOGA PRATAMA">
   </div>
 
   <div class="mb-3">
@@ -51,7 +51,7 @@
 
   <div class="mb-3">
     <label for="namaIstri">Nama Istri</label>
-    <input type="text" id="namaIstri" class="form-control" value="NOR KHANIF FIRHATINA">
+    <input type="text" id="namaIstri" class="form-control" value="SABITA NURSYIFA">
   </div>
 
   <div class="mb-3">
@@ -78,7 +78,7 @@
 
   <div class="mb-3">
     <label for="alamat">Alamat Lokasi Akad</label>
-    <input type="text" id="alamat" class="form-control" value="GUNUNG KASIH PUGUNG TANGGAMUS">
+    <input type="text" id="alamat" class="form-control" value="SUKOHARJO III">
   </div>
 
   <button class="btn btn-primary me-2" onclick="generateCard()">Tampilkan Data</button>
